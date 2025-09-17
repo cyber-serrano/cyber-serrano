@@ -1,46 +1,32 @@
-<h1>Hi, I'm Serrano! <br/> <a href="https://www.linkedin.com/in/stephan-serrano-443181383/">Cybersecurity Professional</a>
+<h1>Hi, I'm Serrano! <br/> <a href="https://www.linkedin.com/in/stephan-serrano-443181383/">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Cybersecurity Labs & Research</b>
+  - [Wireshark Traffic Analysis Lab](https://github.com/theadeserrano/Wireshark-Lab)
+  - [Splunk SIEM Use Cases](https://github.com/theadeserrano/SIEM-Detection-Lab)
+  - [TryHackMe & HackTheBox Writeups](https://github.com/theadeserrano/CTF-Writeups)
+
+- <b>Python for Cybersecurity</b>
+  - [Log File Analyzer (Brute Force Detection)](https://github.com/theadeserrano/Log-Analyzer)
+  - [Port Scanner Tool](https://github.com/theadeserrano/Port-Scanner)
+
+- <b>PowerShell Projects</b>
+  - [Windows Event Log Analysis](https://github.com/theadeserrano/EventLog-Analysis)
+  - [Active Directory User Management](https://github.com/theadeserrano/AD-User-Management)
+
+- <b>Security Tools & Scripts</b>
+  - [File Integrity Monitoring Script](https://github.com/theadeserrano/File-Integrity-Monitor)
+  - [Basic Keylogger (For Educational Purposes)](https://github.com/theadeserrano/Keylogger-Demo)
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/theadeserrano
-[youtube]: https://www.youtube.com/SerranoLately
+[youtube]: https://www.youtube.com/@SerranoLately
 [instagram]: https://www.instagram.com/theadeserrano
 [linkedin]: https://linkedin.com/in/stephan-serrano-443181383/
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
