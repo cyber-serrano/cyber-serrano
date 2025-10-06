@@ -22,7 +22,7 @@
 <h2> :page_with_curl: Certifications:</h2>
 
   - [Google IT Support Profesional](https://www.credly.com/badges/c58885b5-ccda-49d8-8b9b-565dba0c821d/linked_in_profile)
-
+  
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
