@@ -18,6 +18,8 @@
 - <b>Security Tools & Scripts</b>
   - [File Integrity Monitoring Script](https://github.com/theadeserrano/File-Integrity-Monitor)
   - [Basic Keylogger (For Educational Purposes)](https://github.com/theadeserrano/Keylogger-Demo)
+<h2> :page_with_curl: Certifications:</h2>
+  - .[Google IT Support Profesional](
 
 <h2> 🤳 Connect with me:</h2>
 
