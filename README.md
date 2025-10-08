@@ -34,4 +34,4 @@
 [twitter]: https://twitter.com/theadeserrano
 [youtube]: https://www.youtube.com/@SerranoLately
 [instagram]: https://www.instagram.com/theadeserrano
-[linkedin]: https://linkedin.com/in/stephan-serrano-443181383/
+[linkedin]: https://www.linkedin.com/in/stephan-ademuyiwa-serrano-443181383/
