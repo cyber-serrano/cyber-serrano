@@ -22,8 +22,9 @@
 <h2> :page_with_curl: Certifications:</h2>
 
   - [Google IT Support Professional](https://www.credly.com/badges/c58885b5-ccda-49d8-8b9b-565dba0c821d/linked_in_profile)
-  - [(ISC)² Certified in Cybersecurity (CC)](https://www.credly.com/badges/3eacd740-dede-469c-ac66-104ea3b51b6b/linked_in_profile)
   - [Google Cybersecurity Professional](https://www.coursera.org/account/accomplishments/specialization/J0FIPGQ6SDUW)
+  - [(ISC)² Certified in Cybersecurity (CC)](https://www.credly.com/badges/3eacd740-dede-469c-ac66-104ea3b51b6b/linked_in_profile)
+  
     
 <h2> 🤳 Connect with me:</h2>
 
