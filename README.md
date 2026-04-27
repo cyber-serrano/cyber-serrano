@@ -1,4 +1,4 @@
-<h1>Hi, I'm Serrano! <br/> <a href="https://www.linkedin.com/in/stephan-serrano-443181383/">IT Support & Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Serrano! <br/> <a href="https://www.linkedin.com/in/stephan-serrano-443181383/">IT Support, Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Projects:</h2>
 
