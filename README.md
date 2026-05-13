@@ -13,6 +13,7 @@
 
 - <b>PowerShell Projects</b>
   - [Windows Event Log Analysis](https://github.com/theadeserrano/EventLog-Analysis)
+  - [Active Directory Basics Lab](https://github.com/cyber-serrano/ActiveDirectoryBasicsLab)
   - [Active Directory User Management](https://github.com/cyber-serrano/ActiveDirectoryLab)
 
 - <b>Security Tools & Scripts</b>
