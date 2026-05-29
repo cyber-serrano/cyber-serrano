@@ -5,7 +5,6 @@
 - <b>Cybersecurity Labs & Research</b>
   - [Wireshark Traffic Analysis Lab](https://github.com/theadeserrano/Wireshark-Lab)
   - [Splunk SIEM Use Cases](https://github.com/theadeserrano/SIEM-Detection-Lab)
-  - [TryHackMe & HackTheBox Writeups](https://github.com/theadeserrano/CTF-Writeups)
 
 - <b>Python for Cybersecurity</b>
   - [Log File Analyzer (Brute Force Detection)](https://github.com/theadeserrano/Log-Analyzer)
@@ -20,7 +19,6 @@
 
 - <b>Security Tools & Scripts</b>
   - [File Integrity Monitoring Script](https://github.com/theadeserrano/File-Integrity-Monitor)
-  - [Basic Keylogger (For Educational Purposes)](https://github.com/theadeserrano/Keylogger-Demo)
 
 <h2> :page_with_curl: Certifications:</h2>
 
