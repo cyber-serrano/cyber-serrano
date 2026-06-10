@@ -12,6 +12,7 @@
 
 - <b>PowerShell Projects</b>
   - [Windows Event Log Analysis](https://github.com/theadeserrano/EventLog-Analysis)
+  - [Help Desk Ticket Simulations](https://github.com/cyber-serrano/HelpdeskTicketSimulations)
  
 - <b>Active Directory Labs</b>
   - [Active Directory Basics Lab](https://github.com/cyber-serrano/ActiveDirectoryBasicsLab)
